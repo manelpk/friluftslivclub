@@ -168,4 +168,8 @@
 
 		})();
 
+		(function() {
+     			document.getElementByClass('Dq4amc').style.dispaly = 'none';
+		})();
+
 })();
